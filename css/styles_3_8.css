@@ -11,4 +11,26 @@ body {
     background-color: #ede7f6;
     color: #202124;
 }
-
+.section-three{
+    padding: auto;
+    margin: 20px auto;
+    max-width: 90vw;
+    width: 640px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid #dadce0;
+}
+input:focus{
+    outline: none;
+    border-bottom: 2px solid rgb(103, 58, 183);
+}
+.section-eight{
+    padding: auto;
+    margin: auto;
+    max-width: 90vw;
+    width: 640px;
+}
+span{
+    color: red;
+}
